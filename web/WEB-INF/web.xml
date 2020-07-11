@@ -11,12 +11,4 @@
         <servlet-name>servlet</servlet-name>
         <url-pattern>/guests</url-pattern>
     </servlet-mapping>
-<!--    <servlet>-->
-<!--        <servlet-name>servlet2</servlet-name>-->
-<!--        <servlet-class>com.azamat.RoomServlet</servlet-class>-->
-<!--    </servlet>-->
-<!--    <servlet-mapping>-->
-<!--        <servlet-name>servlet2</servlet-name>-->
-<!--        <url-pattern>/rooms</url-pattern>-->
-<!--    </servlet-mapping>-->
 </web-app>
